@@ -1,0 +1,8 @@
+1. https://www.howtocodeschool.com/2022/01/change-background-color-using-dropdown-menu-javascript.html
+
+2. https://programexplorer.tistory.com/130
+parse‭Int 
+->
+https://www.freecodecamp.org/korean/news/how-to-convert-a-string-to-a-number-in-javascript/
+
+3.https://stickode.tistory.com/160
